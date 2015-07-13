@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=/usr/share/icons/hicolor/scalable/apps/translate.svg
+Exec=/usr/bin/translate
+Name[en_US]=Translate
+Name=Translate
+Icon=/usr/share/icons/hicolor/48x48/apps/translate.png
+GenericName=Pygtk application for translation text with yandex
